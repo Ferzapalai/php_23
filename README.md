@@ -19,6 +19,7 @@
     7.4- Executar novamente os passos 7.1 e 7.2
 
 ## Para salvar no Github
+** teste de conflito 
     1- git add . (todos os arquivos ou especificar os nomes, ex: git add index.php)
     2- git commit -m "descrever o que foi feito"
     3- git push 
@@ -47,7 +48,7 @@
             3- git merge "main"
             4- resolve conflitos se houver
             4.1- com conflito: git add . e git commit -m "...."
-            4.2- 4.2- sem conflito: gir merge e git push
+            4.2- sem conflito: gir merge e git push
             5- git push
 
 
