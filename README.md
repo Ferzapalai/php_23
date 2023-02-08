@@ -21,6 +21,7 @@
 ## Para salvar no Github
     ** teste de conflito 
         Teste 1 
+        teste 2
     1- git add . (todos os arquivos ou especificar os nomes, ex: git add index.php)
     2- git commit -m "descrever o que foi feito"
     3- git push 
@@ -51,6 +52,7 @@
             4.1- com conflito: git add . e git commit -m "...."
             4.2- sem conflito: gir merge e git push
             5- git push
+    teste 3     
 
 
         
