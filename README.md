@@ -25,3 +25,13 @@
     3 - git push 
     4 - verificar no github se ficou salvo 
 
+    ### para alternar 
+        1 - git add . (apos as alteraçoes)
+        2 - git commit -m "" nomear as alterações 
+        3 - git push 
+        4 - git checkout (main ou develop)
+        5 - git pull
+        6 - git merge (main ou develop) 
+        
+        
+
