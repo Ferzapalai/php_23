@@ -19,7 +19,8 @@
     7.4- Executar novamente os passos 7.1 e 7.2
 
 ## Para salvar no Github
-** teste de conflito 
+    ** teste de conflito 
+        Teste 1 
     1- git add . (todos os arquivos ou especificar os nomes, ex: git add index.php)
     2- git commit -m "descrever o que foi feito"
     3- git push 
