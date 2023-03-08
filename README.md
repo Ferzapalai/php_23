@@ -52,7 +52,7 @@
             5- git push
 
     
-## CRIAR TABELAS   
+## Criar Tabelas    
  
 
     1.id / codigo PK (Primary Key)
@@ -66,12 +66,32 @@
 
     9.user_departament FK (chave estrangeira - Foreing Key) = PK de outra tabela
 
+    Dados Tabela de Departamentos:
+    1.department_id PK
+    2.department_name
+
+
     10.alt_who (mod_who)
     11.alt_when - NOK (mod_when)
     12.log_first - NOK
-    13.log_last NOK
+    13.log_last NOK 
 
-   ## OBSERVAÇÕES TABELAS 
+   
+    Dados Tabela de Produtos:
+    1.product_id PK
+    2.product_status 0 or 1
+    3.product_type
+    4.product_cost
+    5.product_price
+    6.product_profit
+    7.product_seekage
+    8.product_start
+
+
+   
+
+
+   ## Observações Tabelas  
 
     1.a PK sempre sera tinyint e a unica que sera auto incremento
     2.
