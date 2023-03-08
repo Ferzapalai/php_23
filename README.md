@@ -1,7 +1,7 @@
 # php_23
 
-## Primeiro commit 310123.
-### Passo a Passo 
+## Primeiro commit 310123
+## Passo a Passo 
     1- Verificar se estamos dentro do ubuntu
     2- File : open folder 
     2.1- Apaga conteudo 
@@ -19,15 +19,13 @@
     7.4- Executar novamente os passos 7.1 e 7.2
 
 ## Para salvar no Github
-    ** teste de conflito 
-        Teste 1 
-        teste 2
+    
     1- git add . (todos os arquivos ou especificar os nomes, ex: git add index.php)
     2- git commit -m "descrever o que foi feito"
     3- git push 
     4- verificar no github se ficou salvo 
 
-### Para alternar  (merge)
+## Para alternar  (merge)
         1- git add . (apos as alteraçoes)
         2- git commit -m "" nomear as alterações 
         3- git push 
@@ -52,7 +50,34 @@
             4.1- com conflito: git add . e git commit -m "...."
             4.2- sem conflito: gir merge e git push
             5- git push
-    teste 3     
+
+    
+## CRIAR TABELAS   
+ 
+
+    1.id / codigo PK (Primary Key)
+
+    3.user_status
+    4.user_fullname
+    5.user_name
+    6.user_pass
+    7.user_mail
+    8.user_rank
+
+    9.user_departament FK (chave estrangeira - Foreing Key) = PK de outra tabela
+
+    10.alt_who (mod_who)
+    11.alt_when - NOK (mod_when)
+    12.log_first - NOK
+    13.log_last NOK
+
+   ## OBSERVAÇÕES TABELAS 
+
+    1.a PK sempre sera tinyint e a unica que sera auto incremento
+    2.
+
+
+
 
 
         
